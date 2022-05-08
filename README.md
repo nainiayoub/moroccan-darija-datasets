@@ -1,4 +1,4 @@
-# Moroccan Darija Datasets
+# Moroccan Darija Datasets :morocco:
 
 This repository aims to group Moroccan Darija Datasets to help make them available at once without the need to spend endless amounts of time looking for each dataset. We group the datasets by name, data source, region, and size to provide as much information as possible to select the best dataset for the task at hand.
 
