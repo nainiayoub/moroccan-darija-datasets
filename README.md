@@ -77,6 +77,15 @@ This repository aims to group Moroccan Darija Datasets to help make them availab
       <td><a href="https://github.com/issam9/goud-summarization-dataset">source</a></td>
       <td><a href="https://openreview.net/forum?id=BMVq5MELb9">2022 [6]</a></td>
     </tr>
+    <tr>
+      <td>7</td>
+      <td>MNAD : Moroccan News Articles Dataset</td>
+      <td>Moroccan news websites</td>
+      <td>Maghrebi (Moroccan)</td>
+      <td>418 563 documents</td>
+      <td><a href="https://www.kaggle.com/datasets/jmourad100/mnad-moroccan-news-articles-dataset">source</a></td>
+      <td><a href="https://ieeexplore.ieee.org/document/9682402">2021 [7]</a></td>
+    </tr>
   </tbody>
 </table>
 
@@ -87,3 +96,4 @@ This repository aims to group Moroccan Darija Datasets to help make them availab
 * [[4] An open access NLP dataset for Arabic dialects : data collection, labeling, and model construction, Elmehdi Boujou, Hamza Chataoui, Abdellah El Mekki, Saad Benjelloun, Ikram Chairi and Ismail Berrada MENACIS 2020 conference, In press.](https://arxiv.org/abs/2102.11000)
 * [[5] Outchakoucht Aissam and Es-Samaali Hamza. Moroccan dialect -darija- open dataset, 2021.](https://arxiv.org/abs/2103.09687)
 * [[6] Abderrahmane Issam, Khalil Mrini. Goud.ma: a News Article Dataset for Summarization in Moroccan Darija, 2022.](https://openreview.net/forum?id=BMVq5MELb9)
+* [[7] Jbene Mourad, Smail Tigani, Saadane Rachid, Abdellah Chehri. A Moroccan News Articles Dataset (MNAD) For Arabic Text Categorization, 2021](https://ieeexplore.ieee.org/document/9682402)
