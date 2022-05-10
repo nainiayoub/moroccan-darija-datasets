@@ -96,6 +96,15 @@ This repository aims to group Moroccan Darija Datasets to help make them availab
       <td><a href="https://github.com/qcri/QADI">source</a></td>
       <td><a href="https://arxiv.org/abs/2005.06557">2020 [8]</a></td>
     </tr>
+    <tr>
+      <td>9</td>
+      <td>Dvoice : An open source dataset for Automatic Speech Recognition on Moroccan dialectal Arabic</td>
+      <td>Created by SI2M labs in collaboration with AIOX Lab</td>
+      <td>Maghrebi (Moroccan)</td>
+      <td>2392 training and 600 testing ﬁles</td>
+      <td><a href="https://dvoice.ma/data">DVoice-v1.0</a> <a href="https://zenodo.org/record/6342622#.YnprHpLP3IU">DVoice-v2.0</a></td>
+      <td><a href="https://doi.org/10.5281/zenodo.5482551">2021 [9]</a></td>
+    </tr>
   </tbody>
 </table>
 
@@ -108,3 +117,4 @@ This repository aims to group Moroccan Darija Datasets to help make them availab
 * [[6] Abderrahmane Issam, Khalil Mrini. Goud.ma: a News Article Dataset for Summarization in Moroccan Darija, 2022.](https://openreview.net/forum?id=BMVq5MELb9)
 * [[7] Jbene Mourad, Smail Tigani, Saadane Rachid, Abdellah Chehri. A Moroccan News Articles Dataset (MNAD) For Arabic Text Categorization, 2021](https://ieeexplore.ieee.org/document/9682402)
 * [[8] Ahmed Abdelali, Hamdy Mubarak, Younes Samih, Sabit Hassan, Kareem Darwish. Arabic Dialect Identification in the Wild, 2020.](https://arxiv.org/abs/2005.06557) 
+* [[9] Imade Benelallam, Anass Allak, and Abdou Mohamed Naira. Dvoice : An open source dataset for Automatic Speech Recognition on Moroccan dialectal Arabic, September 2021.](https://doi.org/10.5281/zenodo.5482551)
