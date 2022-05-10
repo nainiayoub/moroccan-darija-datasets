@@ -99,10 +99,10 @@ This repository aims to group Moroccan Darija Datasets to help make them availab
     <tr>
       <td>9</td>
       <td>Dvoice : An open source dataset for Automatic Speech Recognition on Moroccan dialectal Arabic</td>
-      <td>Created by SI2M labs in collaboration with AIOX Lab</td>
+      <td>Voice recordings + text transcriptions</td>
       <td>Maghrebi (Moroccan)</td>
       <td>2392 training and 600 testing ﬁles</td>
-      <td><a href="https://dvoice.ma/data">DVoice-v1.0</a> <a href="https://zenodo.org/record/6342622#.YnprHpLP3IU">DVoice-v2.0</a></td>
+      <td><a href="https://github.com/AIOXLABS/DVoice">source</a></td>
       <td><a href="https://doi.org/10.5281/zenodo.5482551">2021 [9]</a></td>
     </tr>
     <tr>
