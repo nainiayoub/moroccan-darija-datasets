@@ -114,6 +114,24 @@ This repository aims to group Moroccan Darija Datasets to help make them availab
       <td><a href="https://vcar.github.io/ASAYAR/">source</a></td>
       <td><a href="https://ieeexplore.ieee.org/abstract/document/9233923">2020 [10]</a></td>
     </tr>
+    <tr>
+      <td>11</td>
+      <td>OMCD: Offensive Moroccan Comments Dataset</td>
+      <td>A collection of comments from YouTube that have been labeled for oﬀensive content.</td>
+      <td>Maghrebi (Moroccan)</td>
+      <td>8024 comments written in Moroccan dialect</td>
+      <td><a href="https://github.com/kabilessefar/OMCD-Offensive-Moroccan-Comments-Dataset">source</a></td>
+      <td><a href="https://www.researchgate.net/publication/371293556_OMCD_Offensive_Moroccan_Comments_Dataset">2023 [11]</a></td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>MORED: A Moroccan Buildings’ Electricity Consumption Dataset</td>
+      <td>A dataset that comprises electricity consumption data of various Moroccan premises</td>
+      <td>Maghrebi (Moroccan)</td>
+      <td>-</td>
+      <td><a href="https://github.com/MOREDataset/MORED">source</a></td>
+      <td><a href="https://www.mdpi.com/931050">2020 [12]</a></td>
+    </tr>
   </tbody>
 </table>
 
@@ -128,3 +146,5 @@ This repository aims to group Moroccan Darija Datasets to help make them availab
 * [[8] Ahmed Abdelali, Hamdy Mubarak, Younes Samih, Sabit Hassan, Kareem Darwish. Arabic Dialect Identification in the Wild, 2020.](https://arxiv.org/abs/2005.06557) 
 * [[9] Imade Benelallam, Anass Allak, and Abdou Mohamed Naira. Dvoice : An open source dataset for Automatic Speech Recognition on Moroccan dialectal Arabic, September 2021.](https://doi.org/10.5281/zenodo.5482551)
 * [[10] Mohammed Akallouch , Kaoutar Sefrioui Boujemaa , Afaf Bouhoute , Khalid Fardousse , and Ismail Berrada. ASAYAR: A Dataset for Arabic-Latin Scene Text Localization in Highway Trafﬁc Panels. 2020](https://ieeexplore.ieee.org/abstract/document/9233923)
+* [[11] Kabil Essefar, Hassan Ait Baha, Abdelkader El Mahdaouy, Abdellah El Mekki & Ismail Berrada. OMCD: Offensive Moroccan Comments Dataset, 2023](https://link.springer.com/article/10.1007/s10579-023-09663-2)
+* [[12] Mohamed Aymane Ahajjam, Daniel Bonilla Licea, Chaimaa Essayeh, Mounir Ghogho, and Abdellatif Kobbane. MORED: A Moroccan Buildings’ Electricity Consumption Dataset , 2020](https://www.mdpi.com/931050)
