@@ -2,7 +2,7 @@
 
 This repository aims to group Moroccan Darija Datasets to help make them available at once without the need to spend endless amounts of time looking for one. The datasets are grouped by name, data source, region, and size to provide as much information as possible to select the best dataset for the task at hand.
 
-## Datasets
+## Datasets `(13)`
 
 <table>
   <tbody>
@@ -132,6 +132,15 @@ This repository aims to group Moroccan Darija Datasets to help make them availab
       <td><a href="https://github.com/MOREDataset/MORED">source</a></td>
       <td><a href="https://www.mdpi.com/931050">2020 [12]</a></td>
     </tr>
+    <tr>
+      <td>13</td>
+      <td>DarNERcorp: a Named Entity Recognition Corpus in the Moroccan Dialect</td>
+      <td>arNERcorp is a manually annotated corpus for Named Entity Recognition (NER) in the Moroccan Dialect or Darija</td>
+      <td>Maghrebi (Moroccan)</td>
+      <td>65,905 tokens</td>
+      <td><a href="https://data.mendeley.com/datasets/286sss4k9v/4">source</a></td>
+      <td><a href="https://www.sciencedirect.com/science/article/pii/S2352340923003530">2023 [13]</a></td>
+    </tr>
   </tbody>
 </table>
 
@@ -148,3 +157,4 @@ This repository aims to group Moroccan Darija Datasets to help make them availab
 * [[10] Mohammed Akallouch , Kaoutar Sefrioui Boujemaa , Afaf Bouhoute , Khalid Fardousse , and Ismail Berrada. ASAYAR: A Dataset for Arabic-Latin Scene Text Localization in Highway Trafﬁc Panels. 2020](https://ieeexplore.ieee.org/abstract/document/9233923)
 * [[11] Kabil Essefar, Hassan Ait Baha, Abdelkader El Mahdaouy, Abdellah El Mekki & Ismail Berrada. OMCD: Offensive Moroccan Comments Dataset, 2023](https://link.springer.com/article/10.1007/s10579-023-09663-2)
 * [[12] Mohamed Aymane Ahajjam, Daniel Bonilla Licea, Chaimaa Essayeh, Mounir Ghogho, and Abdellatif Kobbane. MORED: A Moroccan Buildings’ Electricity Consumption Dataset , 2020](https://www.mdpi.com/931050)
+* [[13] Mousa, Hanane Nour; Mourhir, Asmaa (2023), “DarNERcorp: a Named Entity Recognition Corpus in the Moroccan Dialect”, Mendeley Data, V4, doi: 10.17632/286sss4k9v.4](https://data.mendeley.com/datasets/286sss4k9v/4)
